@@ -6,7 +6,7 @@ const LandingPage = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="landing-page" style={{ backgroundImage: `url(${backgroundImage})` }}>
+    <div className="landing-page" style={{ backgroundImage: `url(/images/background.jpg)` }}>
       <h1>Paradise Nursery</h1>
       <p>
         Welcome to Paradise Nursery, your one-stop shop for beautiful houseplants. We offer a wide
